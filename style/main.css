@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
-  color: #354b59;
+  background: #E847BB;
+  color: #0B0A0B;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -97,7 +97,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #6F54C2;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
+  background: #771E72;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -403,7 +403,7 @@ hr {
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
     font-size: 16px; 
-    color: #354b59;}
+    color: #5F0F58;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/misters/2.jpg');
     background-size: 100%;
@@ -668,7 +668,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #1e6477;
+    background: #771E72;
     border-radius: 6px;
     width: 280px;
     height: 280px;
@@ -982,7 +982,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
 }
 .restart-button, a.retry-button {
   display: inline-block;
-  background: #1e6477;
+  background: #54566B;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
