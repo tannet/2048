@@ -172,7 +172,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.setAttribute("href", "https://twitter.com/share");
   tweet.textContent = "Tweet";
 
-  var text = "" + this.score + " points in 2048: Mr. FAMCS! http://ow.ly/vpaLY #2048game"
+  var text = "" + this.score + " points in 2048: Mr. FAMCS! http://ow.ly/vpaLY"
   tweet.setAttribute("data-text", text);
 
   return tweet;
